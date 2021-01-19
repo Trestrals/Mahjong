@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/new/image_card">
+        <file>image/9w.png</file>
+        <file>image/1b.png</file>
+        <file>image/1t.png</file>
+        <file>image/1w.png</file>
+        <file>image/2b.png</file>
+        <file>image/2t.png</file>
+        <file>image/2w.png</file>
+        <file>image/3b.png</file>
+        <file>image/3t.png</file>
+        <file>image/3w.png</file>
+        <file>image/4b.png</file>
+        <file>image/4t.png</file>
+        <file>image/4w.png</file>
+        <file>image/5b.png</file>
+        <file>image/5t.png</file>
+        <file>image/5w.png</file>
+        <file>image/6b.png</file>
+        <file>image/6t.png</file>
+        <file>image/6w.png</file>
+        <file>image/7b.png</file>
+        <file>image/7t.png</file>
+        <file>image/7w.png</file>
+        <file>image/8b.png</file>
+        <file>image/8t.png</file>
+        <file>image/8w.png</file>
+        <file>image/9b.png</file>
+        <file>image/9t.png</file>
+        <file>image/ba.png</file>
+        <file>image/backside.png</file>
+        <file>image/be.png</file>
+        <file>image/do.png</file>
+        <file>image/fa.png</file>
+        <file>image/na.png</file>
+        <file>image/side.png</file>
+        <file>image/xi.png</file>
+        <file>image/zh.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
